@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "dev": "node server.js",
-    "start": "set NODE_ENV=production && node server.js"
+    "dev": "node server.js"
   },
   "keywords": [],
   "author": "",
